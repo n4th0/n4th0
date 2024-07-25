@@ -7,7 +7,7 @@ Computer engineering student
 I \`m studying in the university of Alicante, Spain. I don't really like programming but it's something I have to do to improve. I hope my profile is helpful to you.
 
 * 🌍  I'm based in anywhere in the world
-* ✉️  You can contact me at [n4th0chan@gmail.com](mailto:n4th0chan@gmail.com)
+* ✉️  You can contact me at [n4th0chan@gmail.com](mailto:nathanmoyses@gmail.com)
 * 🧠  I'm learning too many things
 
 ### Skills
